@@ -23,5 +23,8 @@ The Air Quality Index is a scale designed to communicate the current air quality
 
 ## Importance of AQI
 
+![0_TXYV2gG3BMDu4-wd](https://github.com/janasourav97/Air-quality-Index/assets/137493387/7f4fd933-8d01-4585-95e6-71fa6b3d9a5c)
+
+
 The Air Quality Index (AQI) is a tool that helps everyone understand how clean or polluted the air is. It uses colors and numbers to show this in a simple way. This is good because it tells people, especially those who work or play outside, how the air might affect their health. In places like India, where technical terms are hard for many to understand, the AQI makes it easier by not using complicated units. It also helps doctors know when bad air might cause more breathing problems for their patients.
 
